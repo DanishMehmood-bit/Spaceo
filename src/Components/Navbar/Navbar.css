@@ -1,0 +1,19 @@
+.Navbar {
+    position: absolute;
+}
+
+.Nav {
+    background-color: transparent;
+}
+
+.Navbar .spaceo {
+    margin-left: 5%;
+}
+
+.Navbar .nav-list {
+    margin-right: 5%;
+}
+
+.Navbar .nav-list li:hover {
+    background-color: rgba(84, 126, 223, 0.7);
+}
