@@ -1,0 +1,27 @@
+.Background {
+    width: 100%;
+    height: 700px;
+    background-image: url("../../Images/blackblueset.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: bottom;
+    margin-bottom: 5%;
+}
+
+.Background .Heading {
+    position: absolute;
+    margin-left: 15%;
+    color: white;
+}
+
+.Background h6 {
+    margin-top: 13%;
+}
+
+.Background .mt {
+    margin-top: 15%;
+}
+
+.Background .mt2 {
+    margin-top: 19%;
+}

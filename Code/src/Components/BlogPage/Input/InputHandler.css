@@ -1,0 +1,11 @@
+.InputHandler input {
+    color: white;
+}
+
+.InputHandler textarea {
+    color: white;
+}
+
+.InputHandler {
+    margin-bottom: 5%;
+}
